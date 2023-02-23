@@ -1,1 +1,2 @@
 - Задача Показать четные числа от 1 до N, число N прогамма получает от пользователя [КОД](/d/learning/GB_devops/seminar/Program.cs)
+- Диаграмма доступна по ссыллке https://drive.google.com/file/d/1P3CTzR_Rq7rfgfJmnQl0ioPc5iLfMMOx/view?usp=share_link
