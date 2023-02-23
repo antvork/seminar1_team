@@ -1,1 +1,1 @@
-- Задача Показать четные числа от 1 до N [КОД](/d/learning/GB_devops/seminar/Program.cs)
+- Задача Показать четные числа от 1 до N, число N прогамма получает от пользователя [КОД](/d/learning/GB_devops/seminar/Program.cs)

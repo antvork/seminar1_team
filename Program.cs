@@ -1,12 +1,13 @@
-﻿Console.WriteLine("Введите число: ");
-int N = Console.ReadLine();
-int a = 1;
-while(a < N)
-{
-    if(a%2==0)
+﻿Console.Write("Введите число: ");
+int N = Convert.ToInt32(Console.ReadLine());
+ int a = 1;
+ while (a <= N)
     {
-        Console.Write(a);
-
+        if (a % 2 == 0)
+            {
+                Console.Write(a);
+                Console.Write(" ");
+            }
+            a = a + 1;
     }
-    a++;
-}
+    
